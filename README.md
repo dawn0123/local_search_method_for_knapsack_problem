@@ -19,3 +19,6 @@ target = 10;
 60 (1 (20) + 8 (40) = 9 < 10)
 ```
 
+### Algorithm
+
+We employ single-bit complement moves and use the method of best improvement for neighbour selection to locally search the best fit.
