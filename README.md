@@ -1,7 +1,7 @@
 # Local Search Method for Knapsack Problem
 
 <p>
-    <img src="knapsack_problem.png" width=100%/>
+    <img src="image.jpeg" width=100%/>
 </p>
 
 ### Problem Description
